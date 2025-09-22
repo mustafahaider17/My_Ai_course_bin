@@ -1,0 +1,7 @@
+age = int(24)
+height = float(5.2)
+
+sum = age+height
+print(sum)
+print(type(sum))
+
